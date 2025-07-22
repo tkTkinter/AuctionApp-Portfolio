@@ -27,7 +27,7 @@ The project involved designing and building the complete physical auction enviro
 
 ### **Software Screenshots & Generated Outputs**
 Here are some screenshots of the custom Human-Machine Interfaces (HMIs) and generated outputs I developed.
-<img width="1370" height="810" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/05de9908-39ce-49fc-b359-22c07855fc08" />
+<img width="1370" height="810" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/7a8837ac-79b5-4edd-ae85-043cc6f1b8de" />
 ![Bidderdisplay screenshot](https://github.com/user-attachments/assets/378bd138-bc62-40c9-acc2-fc9eb72dcb5a)
 <img width="598" height="746" alt="1 invoice screenshot" src="https://github.com/user-attachments/assets/d0d26b92-e302-4cc2-afa6-65ac7c30cb1b" />
 <img width="1093" height="721" alt="invoices preview screenshot" src="https://github.com/user-attachments/assets/0ff3ba87-54a5-4c0d-8718-22e3e781e941" />
